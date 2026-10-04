@@ -1,0 +1,6 @@
+{
+  "name": "Hotel Ashok Vihar Bhabua",
+  "description": "Hotel Ashok Vihar is a 3-star hotel in Rampur Colony, Bhabua, Bihar, offering a comfortable stay near South Bihar Bijli Office and convenient access to Maa Mundeshwari Temple.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
